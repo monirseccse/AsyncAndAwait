@@ -1,0 +1,15 @@
+C:\Users\EMSL-01\Desktop\Practice\AsyncWithoutAwait\bin\Debug\net6.0\AsyncWithoutAwait.exe
+C:\Users\EMSL-01\Desktop\Practice\AsyncWithoutAwait\bin\Debug\net6.0\AsyncWithoutAwait.deps.json
+C:\Users\EMSL-01\Desktop\Practice\AsyncWithoutAwait\bin\Debug\net6.0\AsyncWithoutAwait.runtimeconfig.json
+C:\Users\EMSL-01\Desktop\Practice\AsyncWithoutAwait\bin\Debug\net6.0\AsyncWithoutAwait.dll
+C:\Users\EMSL-01\Desktop\Practice\AsyncWithoutAwait\bin\Debug\net6.0\AsyncWithoutAwait.pdb
+C:\Users\EMSL-01\Desktop\Practice\AsyncWithoutAwait\obj\Debug\net6.0\AsyncWithoutAwait.csproj.AssemblyReference.cache
+C:\Users\EMSL-01\Desktop\Practice\AsyncWithoutAwait\obj\Debug\net6.0\AsyncWithoutAwait.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EMSL-01\Desktop\Practice\AsyncWithoutAwait\obj\Debug\net6.0\AsyncWithoutAwait.AssemblyInfoInputs.cache
+C:\Users\EMSL-01\Desktop\Practice\AsyncWithoutAwait\obj\Debug\net6.0\AsyncWithoutAwait.AssemblyInfo.cs
+C:\Users\EMSL-01\Desktop\Practice\AsyncWithoutAwait\obj\Debug\net6.0\AsyncWithoutAwait.csproj.CoreCompileInputs.cache
+C:\Users\EMSL-01\Desktop\Practice\AsyncWithoutAwait\obj\Debug\net6.0\AsyncWithoutAwait.dll
+C:\Users\EMSL-01\Desktop\Practice\AsyncWithoutAwait\obj\Debug\net6.0\refint\AsyncWithoutAwait.dll
+C:\Users\EMSL-01\Desktop\Practice\AsyncWithoutAwait\obj\Debug\net6.0\AsyncWithoutAwait.pdb
+C:\Users\EMSL-01\Desktop\Practice\AsyncWithoutAwait\obj\Debug\net6.0\AsyncWithoutAwait.genruntimeconfig.cache
+C:\Users\EMSL-01\Desktop\Practice\AsyncWithoutAwait\obj\Debug\net6.0\ref\AsyncWithoutAwait.dll
